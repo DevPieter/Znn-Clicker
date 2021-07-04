@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Znn_CLicker" GeneratedClassName="HotkeySettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="toggle" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">84</Value>
+    </Setting>
+    <Setting Name="toggleUseLeftMouseButton" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">112</Value>
+    </Setting>
+    <Setting Name="toggleUseRightMouseButton" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">113</Value>
+    </Setting>
+    <Setting Name="toggleUseMiddleMouseButton" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">114</Value>
+    </Setting>
+    <Setting Name="toggleUseRandomMultiplier" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">82</Value>
+    </Setting>
+    <Setting Name="toggleUseDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">68</Value>
+    </Setting>
+    <Setting Name="toggleUseRandomDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

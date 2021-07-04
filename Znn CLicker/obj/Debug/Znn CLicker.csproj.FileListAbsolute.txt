@@ -1,0 +1,17 @@
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\Znn CLicker.exe.config
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\Znn CLicker.exe
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\Znn CLicker.pdb
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\MaterialSkin.dll
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.csprojAssemblyReference.cache
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn_CLicker.Home.resources
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn_CLicker.Properties.Resources.resources
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.csproj.GenerateResource.cache
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.csproj.CoreCompileInputs.cache
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.csproj.CopyComplete
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.exe
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn CLicker.pdb
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\Gma.System.MouseKeyHook.dll
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\CircularProgressBar.dll
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\WinFormAnimation.dll
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\bin\Debug\CircularProgressBar.xml
+A:\DEVELOPMENT\C#\C#-Tools\Znn CLicker\Znn CLicker\obj\Debug\Znn_CLicker.SplashScreen.resources

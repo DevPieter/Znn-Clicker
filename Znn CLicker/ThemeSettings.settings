@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Znn_CLicker" GeneratedClassName="ThemeSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="useDarkMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Primary1" Type="MaterialSkin.Primary" Scope="User">
+      <Value Profile="(Default)">LightBlue700</Value>
+    </Setting>
+    <Setting Name="Primary2" Type="MaterialSkin.Primary" Scope="User">
+      <Value Profile="(Default)">LightBlue900</Value>
+    </Setting>
+    <Setting Name="Primary3" Type="MaterialSkin.Primary" Scope="User">
+      <Value Profile="(Default)">LightBlue500</Value>
+    </Setting>
+    <Setting Name="Accent1" Type="MaterialSkin.Accent" Scope="User">
+      <Value Profile="(Default)">Orange100</Value>
+    </Setting>
+    <Setting Name="TextShade" Type="MaterialSkin.TextShade" Scope="User">
+      <Value Profile="(Default)">WHITE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
