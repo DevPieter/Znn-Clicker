@@ -7,7 +7,7 @@
     <ProjectGuid>{B5CDA63D-81F4-4B7C-8641-97ABF00CB7DB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Znn_CLicker</RootNamespace>
-    <AssemblyName>Znn CLicker</AssemblyName>
+    <AssemblyName>Znn Clicker</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
