@@ -12,6 +12,7 @@ Znn Clicker is a modern and easy-to-use double clicker that can double your cps,
 and even better, it can add up to 150 clicks to your click!
 
 It’s easy to customize the keybindings and theme to your liking.
+<br>
 <img src="https://github.com/DevPieter/Znn-Clicker/raw/main/img/Znn%201.PNG"/>
 <br>
 
